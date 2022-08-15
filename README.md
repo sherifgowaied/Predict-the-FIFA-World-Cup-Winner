@@ -5,16 +5,16 @@ In soccer, teams are given FIFA Ratings, which are numerical values representing
 # Testing
 Your program should behave per the examples below. Since simulations have randomness within each, your output will likely not perfectly match the examples below.</br>
 
-$ python tournament.py 2018m.csv</br>
-Belgium: 20.9% chance of winning</br>
-Brazil: 20.3% chance of winning</br>
-Portugal: 14.5% chance of winning</br>
-Spain: 13.6% chance of winning</br>
-Switzerland: 10.5% chance of winning</br>
-Argentina: 6.5% chance of winning</br>
-England: 3.7% chance of winning</br>
-France: 3.3% chance of winning</br>
-Denmark: 2.2% chance of winning</br>
+### $ python tournament.py 2018m.csv</br>
+* Belgium: 20.9% chance of winning</br>
+* Brazil: 20.3% chance of winning</br>
+* Portugal: 14.5% chance of winning</br>
+* Spain: 13.6% chance of winning</br>
+* Switzerland: 10.5% chance of winning</br>
+* Argentina: 6.5% chance of winning</br>
+* England: 3.7% chance of winning</br>
+* France: 3.3% chance of winning</br>
+* Denmark: 2.2% chance of winning</br>
 Croatia: 2.0% chance of winning</br>
 * Colombia: 1.8% chance of winning</br>
 * Sweden: 0.5% chance of winning</br>
