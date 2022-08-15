@@ -16,26 +16,26 @@ England: 3.7% chance of winning</br>
 France: 3.3% chance of winning</br>
 Denmark: 2.2% chance of winning</br>
 Croatia: 2.0% chance of winning</br>
-Colombia: 1.8% chance of winning</br>
-Sweden: 0.5% chance of winning</br>
-Uruguay: 0.1% chance of winning</br>
-Mexico: 0.1% chance of winning</br>
-$ python tournament.py 2019w.csv</br>
-Germany: 17.1% chance of winning</br>
-United States: 14.8% chance of winning</br>
-England: 14.0% chance of winning</br>
-France: 9.2% chance of winning</br>
-Canada: 8.5% chance of winning</br>
-Japan: 7.1% chance of winning</br>
-Australia: 6.8% chance of winning</br>
-Netherlands: 5.4% chance of winning</br>
-Sweden: 3.9% chance of winning</br>
-Italy: 3.0% chance of winning</br>
-Norway: 2.9% chance of winning</br>
-Brazil: 2.9% chance of winning</br>
-Spain: 2.2% chance of winning</br>
-China PR: 2.1% chance of winning</br>
-Nigeria: 0.1% chance of winning</br>
+* Colombia: 1.8% chance of winning</br>
+* Sweden: 0.5% chance of winning</br>
+* Uruguay: 0.1% chance of winning</br>
+* Mexico: 0.1% chance of winning</br>
+* $ python tournament.py 2019w.csv</br>
+* Germany: 17.1% chance of winning</br>
+* United States: 14.8% chance of winning</br>
+* England: 14.0% chance of winning</br>
+* France: 9.2% chance of winning</br>
+* Canada: 8.5% chance of winning</br>
+* Japan: 7.1% chance of winning</br>
+* Australia: 6.8% chance of winning</br>
+* Netherlands: 5.4% chance of winning</br>
+* Sweden: 3.9% chance of winning</br>
+* Italy: 3.0% chance of winning</br>
+* Norway: 2.9% chance of winning</br>
+* Brazil: 2.9% chance of winning</br>
+* Spain: 2.2% chance of winning</br>
+* China PR: 2.1% chance of winning</br>
+* Nigeria: 0.1% chance of winning</br>
 You might be wondering what actually happened at the 2018 and 2019 World Cups! For Men’s, France won, defeating Croatia in the final. Belgium defeated England for the third place position. For Women’s, the United States won, defeating the Netherlands in the final. England defeated Sweden for the third place position.</br>
 
 
