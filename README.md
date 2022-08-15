@@ -18,7 +18,7 @@ Denmark: 2.2% chance of winning</br>
 Croatia: 2.0% chance of winning</br>
 Colombia: 1.8% chance of winning</br>
 Sweden: 0.5% chance of winning</br>
-Uruguay: 0.1% chance of winning
+Uruguay: 0.1% chance of winning</br>
 Mexico: 0.1% chance of winning</br>
 $ python tournament.py 2019w.csv</br>
 Germany: 17.1% chance of winning</br>
